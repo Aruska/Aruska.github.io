@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 # title: Cadre Demo
-title: qwerty
+title: Roaming the Globe
 email: qwer@gmail.com  
-description: Top10 travel spot 
+description: A Journey Through the World's Most Captivating Destinations
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Aruska.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
