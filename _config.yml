@@ -19,8 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 # title: Cadre Demo
-email: smlee.981@gmail.com  
-description: A responsive, modern, Jekyll theme for bloggers with Bootstrap styling and KaTex support.
+title: qwerty
+email: qwer@gmail.com  
+description: Top10 travel spot 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Aruska.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
