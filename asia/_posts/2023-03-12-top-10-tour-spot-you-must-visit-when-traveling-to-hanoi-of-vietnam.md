@@ -59,5 +59,3 @@ Address: 57B Đinh Tiên Hoàng, Hoàn Kiếm, Hà Nội, Vietnam
 The Thang Long Water Puppet Theatre is a must-visit spot for anyone visiting Hanoi. The theatre is a great place to experience traditional Vietnamese culture and watch a unique performance of water puppetry. The theatre is open every day and is a great place to experience the city’s culture. 
 
 Hanoi is a city full of culture, history, and beauty. With its bustling streets, delicious food, and friendly locals, it’s no wonder why Hanoi is one of the most popular tourist destinations in Southeast Asia. Whether you’re looking for a relaxing getaway or an adventure-filled vacation, Hanoi has something for everyone. So, make sure to visit these top 10 tour spots when you’re in Hanoi and make the most of your trip! 
-
-#Hanoi #Vietnam #Travel #Tourism #Sightseeing #Culture #History #Food #Adventure #Explore #Discover #Vacation #Souvenirs #PuppetTheatre #Pagodas #Temples #Lake #OldQuarter #Mausoleum #OperaHouse #WaterPuppetry #StreetFood #Relaxation

@@ -58,5 +58,3 @@ Tonle Sap Lake is the largest lake in Cambodia and is a great place to explore t
 Address: Siem Reap River, Siem Reap 17252, Cambodia
 
 The Siem Reap River is a great place to explore the city and its surroundings. This river is home to many boat tours and is a great way to explore the city. The river is also home to many restaurants and is a great place to grab a bite to eat. 
-
-#Hashtags: #SiemReap #Cambodia #AngkorWat #TaProhm #AngkorThom #BanteaySrei #PreahKhan #PhnomBakheng #AngkorNationalMuseum #PubStreet #TonleSapLake #SiemReapRiver

@@ -58,4 +58,4 @@ Address: Bedugul, Kec. Candikuning, Baturiti, Kabupaten Tabanan, Bali 80345, Ind
 
 Bedugul is a stunning mountain lake located in the north of Bali. The lake is surrounded by lush jungles and offers stunning views of the surrounding mountains. The lake is also home to a variety of wildlife, including monkeys and birds.
 
-Whether you're looking for a relaxing beach vacation or an adventure-filled holiday, Bali has something for everyone. From stunning temples and beaches to vibrant nightlife and delicious food, Bali is the perfect destination for your next vacation. #bali #indonesia #travel #tourism #touristattraction #temple #beach #jungle #culture #art #museum #shopping #resort #nightlife #seafood
+Whether you're looking for a relaxing beach vacation or an adventure-filled holiday, Bali has something for everyone. From stunning temples and beaches to vibrant nightlife and delicious food, Bali is the perfect destination for your next vacation.

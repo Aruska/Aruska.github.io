@@ -50,4 +50,4 @@ Shanghai Disneyland is the first Disney theme park in mainland China. It is loca
 
 Xintiandi is a popular shopping and entertainment district in Shanghai. It is located in the heart of the city and features a wide variety of shops, restaurants, and cafes. You can also take a stroll through the area and admire the traditional Chinese architecture.
 
-These are the top 10 tour spots you must visit when traveling to Shanghai of China. From the bustling streets of the Bund to the peaceful Yu Garden, there is something for everyone in Shanghai. So, what are you waiting for? Pack your bags and get ready to explore the vibrant city of Shanghai! #Shanghai #China #Travel #Tourism #Explore #Adventure
+These are the top 10 tour spots you must visit when traveling to Shanghai of China. From the bustling streets of the Bund to the peaceful Yu Garden, there is something for everyone in Shanghai. So, what are you waiting for? Pack your bags and get ready to explore the vibrant city of Shanghai!

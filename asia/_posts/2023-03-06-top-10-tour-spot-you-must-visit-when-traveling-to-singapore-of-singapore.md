@@ -48,7 +48,3 @@ The Singapore Botanic Gardens is a sprawling park located in the heart of Singap
 ## 10. Universal Studios Singapore
 
 Universal Studios Singapore is a theme park located on Sentosa Island. It features a variety of attractions, such as roller coasters, shows, and interactive experiences. Address: 8 Sentosa Gateway, Singapore 098269
-
-# Hashtags
-
-#Singapore #Travel #Tour #Explore #Adventure #GardensByTheBay #SingaporeZoo #SentosaIsland #Chinatown #SingaporeFlyer #MarinaBaySands #LittleIndia #OrchardRoad #SingaporeBotanicGardens #UniversalStudiosSingapore

@@ -68,4 +68,4 @@ Akihabara is a district in Tokyo known for its electronics stores, anime stores,
 
 Address: 1 Chome Sotokanda, Chiyoda City, Tokyo 101-0021
 
-These are the top 10 tour spots you must visit when traveling to Tokyo. From the Tokyo Skytree to Akihabara, there is something for everyone in Tokyo. #JapanTravel #TokyoTourism #TokyoSightseeing
+These are the top 10 tour spots you must visit when traveling to Tokyo. From the Tokyo Skytree to Akihabara, there is something for everyone in Tokyo.

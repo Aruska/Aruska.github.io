@@ -40,5 +40,3 @@ Seomyeon is a popular shopping district located in the downtown area of Busan. I
 Yongdusan Park is a beautiful park located in the downtown area of Busan. It is known for its stunning views of the city and the nearby mountains. The park is also home to a variety of restaurants, cafes, and shops. There are also several outdoor activities available, such as hiking and biking. 
 
 Whether you're looking for a relaxing beach vacation or an exciting adventure, Busan has something for everyone. From stunning beaches to vibrant neighborhoods, Busan is a city that has something for everyone. So, if you're planning a trip to South Korea, make sure to include these top 10 tour spots in your itinerary. 
-
-#Hashtags: #Busan #Korea #Travel #Beaches #Culture #Adventure #Food #Shopping #Sightseeing #Hiking #Biking

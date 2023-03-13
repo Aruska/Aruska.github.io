@@ -51,4 +51,4 @@ Sai Kung is a fishing village located on the eastern side of Hong Kong. The vill
 
 # Summary
 
-Hong Kong is a vibrant city full of culture, history, and amazing sights. From the bustling streets of Kowloon to the tranquil beaches of Sai Kung, there’s something for everyone. The top 10 spots you must visit when traveling to Hong Kong include Victoria Peak, Tian Tan Buddha, Hong Kong Disneyland, Ocean Park, Temple Street Night Market, Star Ferry, Victoria Harbour, Wong Tai Sin Temple, Hong Kong Wetland Park, and Sai Kung. #HongKong #Travel #Tourism #VictoriaPeak #TianTanBuddha #HongKongDisneyland #OceanPark #TempleStreetNightMarket #StarFerry #VictoriaHarbour #WongTaiSinTemple #HongKongWetlandPark #SaiKung
+Hong Kong is a vibrant city full of culture, history, and amazing sights. From the bustling streets of Kowloon to the tranquil beaches of Sai Kung, there’s something for everyone. The top 10 spots you must visit when traveling to Hong Kong include Victoria Peak, Tian Tan Buddha, Hong Kong Disneyland, Ocean Park, Temple Street Night Market, Star Ferry, Victoria Harbour, Wong Tai Sin Temple, Hong Kong Wetland Park, and Sai Kung. 

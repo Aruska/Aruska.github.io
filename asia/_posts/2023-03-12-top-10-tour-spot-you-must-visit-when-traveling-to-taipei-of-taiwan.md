@@ -61,4 +61,3 @@ Beitou Hot Springs is a popular destination for locals and tourists alike. It is
 
 These are the top 10 spots you must visit when traveling to Taipei of Taiwan. From the iconic Taipei 101 to the relaxing Beitou Hot Springs, there is something for everyone to enjoy. So, what are you waiting for? Pack your bags and get ready to explore the vibrant city of Taipei!
 
-#Taipei #Taiwan #Travel #Tourism #HotSprings #NightMarket #Culture #History #SunYatSen #ChiangKaiShek #NationalPalaceMuseum #Ximending #Beitou #LongshanTemple #MaokongGondola #Taipei101 #Explore #Adventure #Vacation #Sightseeing

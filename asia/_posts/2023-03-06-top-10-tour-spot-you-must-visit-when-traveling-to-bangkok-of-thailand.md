@@ -29,4 +29,4 @@ Bangkok, the capital of Thailand, is a vibrant and bustling city that offers a p
 
 10. Suan Lum Night Bazaar: Suan Lum Night Bazaar is a popular night market in Bangkok and is home to hundreds of stalls selling everything from clothing to souvenirs. The market is open daily from 6:00pm to 11:00pm and admission is free.
 
-Whether you’re looking for a relaxing vacation or an exciting adventure, Bangkok has something to offer. From its ancient temples to its modern shopping malls, Bangkok is a city that has something for everyone. Make sure to add these top 10 tour spots to your list when traveling to Bangkok. #Bangkok #Thailand #Travel #Tourism #Adventure #Explore
+Whether you’re looking for a relaxing vacation or an exciting adventure, Bangkok has something to offer. From its ancient temples to its modern shopping malls, Bangkok is a city that has something for everyone. Make sure to add these top 10 tour spots to your list when traveling to Bangkok.

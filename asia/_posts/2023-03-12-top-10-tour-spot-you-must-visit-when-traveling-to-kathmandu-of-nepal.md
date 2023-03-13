@@ -57,6 +57,3 @@ Pokhara is a popular tourist destination located just outside of Kathmandu. It i
 Address: Lumbini, Rupandehi 44600, Nepal 
 
 Lumbini is a UNESCO World Heritage Site and is one of the most important Buddhist sites in Nepal. It is a great place to experience the culture and religion of Nepal. 
-
-# Hashtags
-#Kathmandu #Nepal #Travel #TourSpots #PashupatinathTemple #BoudhanathStupa #SwayambhunathStupa #KathmanduDurbarSquare #PatanDurbarSquare #BhaktapurDurbarSquare #Nagarkot #ChitwanNationalPark #Pokhara #Lumbini

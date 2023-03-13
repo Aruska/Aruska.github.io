@@ -59,4 +59,4 @@ Address: Lodi Rd, Lodhi Gardens, New Delhi, Delhi 110003
 
 The Lodi Gardens is a beautiful park located in the heart of Delhi. It is a great spot for a leisurely stroll and is known for its lush green lawns and stunning monuments. The gardens are home to several historic tombs and monuments, including the Tomb of Mohammed Shah and the Bara Gumbad. 
 
-Delhi is a city full of culture and history, and these top 10 tour spots are the perfect way to explore it. From the iconic Red Fort to the bustling Chandni Chowk market, these spots are sure to give you an unforgettable experience. #Delhi #India #Travel #Tourism #RedFort #IndiaGate #QutubMinar #HumayunsTomb #JamaMasjid #LotusTemple #AkshardhamTemple #ChandniChowk #NationalRailMuseum #LodiGardens
+Delhi is a city full of culture and history, and these top 10 tour spots are the perfect way to explore it. From the iconic Red Fort to the bustling Chandni Chowk market, these spots are sure to give you an unforgettable experience.

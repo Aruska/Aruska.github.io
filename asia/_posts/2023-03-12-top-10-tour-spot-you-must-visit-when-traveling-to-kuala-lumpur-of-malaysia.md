@@ -40,4 +40,3 @@ Menara Kuala Lumpur is a communications tower located in the heart of Kuala Lump
 
 Kuala Lumpur is a vibrant city with plenty of attractions to explore. From the iconic Petronas Twin Towers to the bustling street markets, there is something for everyone. Whether you're looking for a cultural experience or an adrenaline rush, Kuala Lumpur has something for you. 
 
-#Hashtags: #KualaLumpur #Malaysia #Travel #Tourism #PetronasTwinTowers #BatuCaves #AquariaKLCC #CentralMarket #PetalingStreet #KLTower #SunwayLagoon #NationalMonument #MenaraKualaLumpur

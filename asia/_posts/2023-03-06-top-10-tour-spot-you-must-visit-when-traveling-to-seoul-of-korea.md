@@ -59,4 +59,4 @@ Address: 29 Itaewon-ro, Yongsan-gu, Seoul, South Korea
 
 The War Memorial of Korea is a museum dedicated to the history of the Korean War. The museum is home to a variety of artifacts and exhibits related to the war, and is a great place to learn about the history of the conflict. 
 
-Whether you’re looking for a taste of traditional Korean culture or a vibrant nightlife, Seoul has something for everyone. From the grand palaces of Gyeongbokgung and Changdeokgung to the bustling streets of Myeongdong and Hongdae, these are the top 10 tour spots you must visit when traveling to Seoul, Korea. #Seoul #Korea #Travel #Tourism #Culture #History #Attractions #Palace #Village #Park #Shopping #Nightlife #Memorial
+Whether you’re looking for a taste of traditional Korean culture or a vibrant nightlife, Seoul has something for everyone. From the grand palaces of Gyeongbokgung and Changdeokgung to the bustling streets of Myeongdong and Hongdae, these are the top 10 tour spots you must visit when traveling to Seoul, Korea.

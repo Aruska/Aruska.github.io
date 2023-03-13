@@ -58,5 +58,3 @@ Address: 657 Sanjusangendomawari, Higashiyama-ku, Kyoto, 605-0941
 
 Sanjusangendo Temple is a stunning temple in the heart of Kyoto. The temple is home to a thousand statues of the Buddhist deity Kannon, as well as a variety of other statues and shrines. Visitors can explore the temple’s many halls and take in the stunning views of the city from the observation deck.
 
-# Hashtags
-#Kyoto #Japan #Travel #Tourism #FushimiInariShrine #KiyomizuDeraTemple #GionDistrict #ArashiyamaBambooGrove #NijoCastle #KinkakujiTemple #PhilosophersPath #NishikiMarket #KyotoImperialPalace #SanjusangendoTemple
