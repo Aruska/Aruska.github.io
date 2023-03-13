@@ -2,6 +2,7 @@
 layout: post
 title:  "Top 10 tour spot you must visit when traveling to Bali of Indonesia "
 description: >
+date: 2023-01-20
 categories: [travel,asia,Indonesia]
 ---
 <img src="https://source.unsplash.com/1600x900/?bali,indonesia,travel">
