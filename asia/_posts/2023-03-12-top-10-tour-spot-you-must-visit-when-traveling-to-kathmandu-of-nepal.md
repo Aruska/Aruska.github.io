@@ -2,8 +2,8 @@
 layout: post
 title:  "Top 10 tour spot you must visit when traveling to Kathmandu of Nepal"
 description: >
-date:2023-03-12 15:51:37.798886
-categories:Nepal,asia
+date: 2023-03-12 
+categories: [Nepal,asia]
 ---
 <img src="https://source.unsplash.com/1600x900/?kathmandu,nepal,travel">
 Kathmandu is the capital of Nepal and is a great place to visit for its rich culture, beautiful scenery, and amazing people. Whether you are looking for a relaxing getaway or an adventure-filled trip, Kathmandu has something for everyone. Here are the top 10 tour spots you must visit when traveling to Kathmandu of Nepal. 

@@ -2,8 +2,8 @@
 layout: post
 title:  "Top 10 tour spot you must visit when traveling to Hanoi of Vietnam"
 description: >
-date:2023-03-12 15:49:50.905536
-categories:Vietnam,asia
+date: 2023-03-12
+categories: [Vietnam,asia]
 ---
 <img src="https://source.unsplash.com/1600x900/?hanoi,vietnam">
 Are you planning a trip to Hanoi, Vietnam? If so, you’re in for a treat! Hanoi is a city full of culture, history, and beauty. With its bustling streets, delicious food, and friendly locals, it’s no wonder why Hanoi is one of the most popular tourist destinations in Southeast Asia. To help you make the most of your trip, here are the top 10 tour spots you must visit when traveling to Hanoi, Vietnam. 

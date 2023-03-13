@@ -2,8 +2,8 @@
 layout: post
 title:  "Top 10 tour spot you must visit when traveling to Kyoto of Japan"
 description: >
-date:2023-03-12 15:50:52.991761
-categories:Japan,asia
+date: 2023-01-01
+categories: [Japan,asia]
 ---
 <img src="https://source.unsplash.com/1600x900/?kyoto,japan">
 Kyoto is a city full of culture, history, and beauty. From the stunning Fushimi Inari Shrine to the ancient Kiyomizu-dera Temple, there are plenty of places to explore and enjoy. Whether you’re looking for a peaceful stroll through a traditional Japanese garden or a thrilling adventure through a bustling night market, Kyoto has something for everyone. Here are the top 10 tour spots you must visit when traveling to Kyoto, Japan. 

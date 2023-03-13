@@ -2,8 +2,8 @@
 layout: post
 title:  "Top 10 tour spot you must visit when traveling to Taipei of Taiwan"
 description: >
-date:2023-03-12 15:48:23.304007
-categories:Taiwan,asia
+date: 2023-03-12
+categories: [Taiwan,asia]
 ---
 <img src="https://source.unsplash.com/1600x900/?taipei,taiwan">
 
