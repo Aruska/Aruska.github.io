@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 tour spot you must visit when traveling to Busan of Korea"
 description: >
 date: 2023-02-22
-categories: [travel,asia,Korea]
+categories: [asia,Korea]
 ---
 
 # Top 10 Tour Spots You Must Visit When Traveling to Busan, Korea

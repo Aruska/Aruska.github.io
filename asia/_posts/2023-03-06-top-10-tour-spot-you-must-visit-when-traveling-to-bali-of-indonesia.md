@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 tour spot you must visit when traveling to Bali of Indonesia "
 description: >
 date: 2023-01-20
-categories: [travel,asia,Indonesia]
+categories: [asia,Indonesia]
 ---
 <img src="https://source.unsplash.com/1600x900/?bali,indonesia,travel">
 Are you looking for a beautiful place to visit? Bali is the perfect destination for you! With its stunning beaches, lush jungles, and vibrant culture, Bali has something for everyone. Here are the top 10 tour spots you must visit when traveling to Bali of Indonesia.

@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 tour spot you must visit when traveling to Singapore  of Singapore "
 date: 2023-03-05
 description: >
-categories: [travel,asia,Singapore]
+categories: [asia,Singapore]
 ---
 <img src="https://source.unsplash.com/1600x900/?singapore">
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 tour spot you must visit when traveling to Bangkok of Thailand"
 description: >
 date: 2023-03-01
-categories: [travel,asia,Thailand]
+categories: [asia,Thailand]
 ---
 <img src="https://images.unsplash.com/photo-1560270948-f9d9f8f6a9a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80">
 

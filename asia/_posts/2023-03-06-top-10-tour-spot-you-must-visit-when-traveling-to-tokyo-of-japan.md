@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 tour spot you must visit when traveling to Tokyo of Japan "
 date: 2023-03-06
 description: >
-categories: [travel,asia,Japan]
+categories: [asia,Japan]
 ---
 
 Are you planning to visit Tokyo, Japan? Tokyo is one of the most popular cities in the world and is a must-visit destination for any traveler. With its vibrant culture, delicious food, and stunning architecture, Tokyo is a city that will leave you with lasting memories. Here are the top 10 tour spots you must visit when traveling to Tokyo. #Tokyo #Japan #Travel #Tourism

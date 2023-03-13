@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 tour spot you must visit when traveling to Seoul of Korea"
 description: >
 date: 2023-02-06
-categories: [travel,asia,Korea]
+categories: [asia,Korea]
 ---
 <img src="https://source.unsplash.com/1600x900/?seoul,south-korea,travel">
 
