@@ -5,6 +5,9 @@ description: >
 date: 2023-03-12
 categories: [Cambodia,asia]
 ---
+
+![HitCount](http://hits.dwyl.com/Aruska/my-project-repository.svg)
+
 <img src="https://source.unsplash.com/1600x900/?siem-reap,temple,cambodia">
 
 Siem Reap is a city in Cambodia, located in the northwest of the country. It is the gateway to the Angkor Archaeological Park, a UNESCO World Heritage Site, and is home to some of the most impressive temples in the world. Siem Reap is a great destination for travelers looking to explore the ancient ruins and experience the culture of Cambodia. Here are the top 10 tour spots you must visit when traveling to Siem Reap. 
